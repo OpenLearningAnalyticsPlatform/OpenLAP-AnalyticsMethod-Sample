@@ -1,0 +1,26 @@
+{
+  "mapping" : [ {
+    "outputPort" : {
+      "type" : "STRING",
+      "id" : "words_in",
+      "required" : true
+    },
+    "inputPort" : {
+      "type" : "STRING",
+      "id" : "words_in",
+      "required" : true
+    }
+  }, {
+    "outputPort" : {
+      "type" : "STRING",
+      "id" : "entries",
+      "required" : true
+    },
+    "inputPort" : {
+      "type" : "STRING",
+      "id" : "entries",
+      "required" : true
+    }
+  }]
+}
+

@@ -1,0 +1,20 @@
+{
+  "columns" : {
+    "words_in" : {
+      "configurationData" : {
+        "type" : "STRING",
+        "id" : "words_in",
+        "required" : true
+      },
+      "data" : [ "parrot", "dead" ]
+    },
+    "entries" : {
+      "configurationData" : {
+        "type" : "STRING",
+        "id" : "entries",
+        "required" : true
+      },
+      "data" : [ "This is a dead parrot!", "It is not dead, is resting!" ]
+    }
+  }
+}
